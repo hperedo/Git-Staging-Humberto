@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap>
-    <booktitle>
+    <booktitle outputclass="DRAFT">
         <mainbooktitle>Electrical load analysis 2</mainbooktitle>
     </booktitle>
     <bookmeta>
         <author>Humberto Peredo</author>
         <critdates>
             <created date="2024-01-08"/>
-            <revised modified=""/>
+            <revised modified="2024-01-24"/>
         </critdates>
         <change-historylist>
             <change-item>
