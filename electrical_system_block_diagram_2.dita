@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="electrical_system_block_diagram_2">
+    <title>ELECTRICAL SYSTEM BLOCK DIAGRAM 2</title>
+    <body>
+        <p>
+            <fig id="fig_tgs_rrq_11c">
+                <title>Equation</title>
+            </fig>
+            <fig id="fig_f3g_1fw_21c">
+                <title>Equation in SVG</title>
+                <image href="Images/equation.svg" scale="200" id="image_g3g_1fw_21c"/>
+            </fig>
+            <fig id="fig_fzk_tfw_21c">
+                <title>Equation 2</title>
+                <image href="Images/equation2.svg" scale="200" id="image_gzk_tfw_21c"/>
+            </fig>
+        </p>
+        <p><image href="Images/equation3.svg" scale="300" id="image_umy_jgw_21c"/></p>
+        <p><fig id="fig_sv3_5p1_f1c">
+                <title>FIGURE PNG</title>
+                <image href="Images/equationPNG1.png" width="200" height="200"
+                    id="image_tv3_5p1_f1c" scale="400"/>
+            </fig>External link</p>
+        <p/>
+        <p/>
+        <p/>
+        <p>Maestría en Ciencias con especialidad en materiales compuestos.</p>
+        <p/>
+        <p/>
+        <p/>
+        <p>
+            <image placement="break" href="Images/Crack%20near%20a%20Circular%20hole.jpg"
+                align="left" id="image_unr_ltq_11c" scale="80"/>
+        </p>
+        <p/>
+        <p/>
+        <p>
+            <image placement="break" href="Images/Crack%20near%20a%20Circular%20hole_2.tiff"
+                scale="60" align="right" id="image_z1m_f5q_11c"/>
+        </p>
+        <p/>
+    </body>
+</topic>

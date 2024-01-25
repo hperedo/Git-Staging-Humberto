@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="dc_system">
+    <title>DC System</title>
+    <body>
+        <p>The DC electrical system is energized by three 115/28-volt transformer-rectifier (TR)
+            units rated at 75 amps. TR units 1 and 2 receive AC power from the transfer buses to
+            power DC buses 1 and 2. TR units 1 and 2 are normally operated in parallel through
+            circuit breakers and an isolation contactor. TR3, supplied by the 115V AC Transfer Bus
+            No. 2, normally powers the Battery Bus and backs up TR units 1 and 2 through a
+            diode.</p>
+    </body>
+</topic>

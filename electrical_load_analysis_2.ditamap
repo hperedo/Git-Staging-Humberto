@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Electrical load analysis 2</mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <author>Humberto Peredo</author>
+        <critdates>
+            <created date="2024-01-08"/>
+            <revised modified=""/>
+        </critdates>
+        <change-historylist>
+            <change-item>
+                <change-revisionid/>
+                <change-completed/>
+                <change-summary>Initial Release</change-summary>
+            </change-item>
+        </change-historylist>
+        <prodinfo>
+            <prodname>Fleet avionics update</prodname>
+            <series>DHC</series>
+            <prognum/>
+        </prodinfo>
+        <bookid>
+            <booknumber>5797-2131-00</booknumber>
+        </bookid>
+        <bookchangehistory>
+            <bookevent>
+                <revisionid>IR</revisionid>
+            </bookevent>
+            <bookevent>
+                <person name="Humberto" value="Peredo"/>
+                <revisionid/>
+                <completed>
+                    <day>8</day>
+                    <month>1</month>
+                    <year>2024</year>
+                </completed>
+                <summary>Initial Release</summary>
+            </bookevent>
+        </bookchangehistory>
+        <bookrights>
+            <copyrfirst>
+                <year>2024</year>
+            </copyrfirst>
+            <copyrlast>
+                <year>2024</year>
+            </copyrlast>
+            <bookowner>
+                <organization>JANA Engineering</organization>
+            </bookowner>
+        </bookrights>
+        <data class="- topic/data bookmeta/thirdApproval " outputclass="Off"/>
+    </bookmeta>
+    <frontmatter>
+        <booklists>
+            <toc/>
+            <abbrevlist href="log_of_revisions_1.dita"/>
+            <tablelist/>
+            <figurelist/>
+        </booklists>
+    </frontmatter>
+    <chapter href="introduction.dita"/>
+    <chapter href="baseline_aircraft_summary.dita">
+        <topicref href="dc_system.dita"/>
+    </chapter>
+    <chapter href="added_loads.dita"/>
+    <chapter href="electrical_system_block_diagram_2.dita"/>
+    <chapter href="load_table.dita"/>
+</bookmap>

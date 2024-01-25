@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="log_of_revisions">
+    <title>LOG OF REVISIONS</title>
+    <body>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_kdg_x3m_jvb">
+                <tgroup cols="4" align="center">
+                    <colspec colname="c1" colnum="1" colwidth="50pt"/>
+                    <colspec colname="c2" colnum="2" colwidth="250pt"/>
+                    <colspec colname="c3" colnum="3" colwidth="90pt"/>
+                    <colspec colname="c4" colnum="4" colwidth="90pt"/>
+                    <thead>
+                        <row>
+                            <entry>REV</entry>
+                            <entry>DESCRIPTION</entry>
+                            <entry>DATE</entry>
+                            <entry>APPROVED</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <lines id="lines_okf_clm_jvb">IR</lines>
+                            </entry>
+                            <entry align="left">
+                                <lines id="lines_bb5_fkm_jvb">Initial Release</lines>
+                            </entry>
+                            <entry>
+                                <lines id="lines_wzq_clm_jvb"/>
+                            </entry>
+                            <entry>
+                                <lines id="lines_uzs_clm_jvb"/>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_a4m_kkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_m14_kkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_dhp_kkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_y4q_kkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_vsr_kkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_kws_kkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_syt_kkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_mz5_kkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_y1w_kkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_icx_kkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_wq1_lkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_dyd_lkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_mcf_lkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_djg_lkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_pm5_lkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_nlt_lkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_v3s_lkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_vhr_lkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry align="left">
+                                <lines id="lines_ldq_lkm_jvb"/>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+        <p/>
+    </body>
+</topic>

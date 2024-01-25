@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="baseline_aircraft_summary">
+    <title>BASELINE AIRCRAFT SUMMARY</title>
+    <body>
+        <p>Baseline Aircraft Summary (Pre-modification) information is taken from Boeing B737
+            Baseline ELA Documents D285A018-65, D285A018-65 Enclosure and JET Airways ELA statement.
+            The existing aircraft load is based on a “HOLD &amp; LAND” condition, which is the
+            maximum loading condition for this aircraft. In addition, both bus and bus types are
+            listed. The following is a description of the Electrical Power System in the Boeing
+            737NG series aircraft.</p>
+    </body>
+</topic>

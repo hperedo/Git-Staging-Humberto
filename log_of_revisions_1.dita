@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="log_of_revisions_1">
+    <title>LOG OF REVISIONS</title>
+    <body>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_wgd_wcw_11c">
+                <tgroup cols="4" align="center">
+                    <colspec colname="c1" colnum="1" colwidth="30pt"/>
+                    <colspec colname="c2" colnum="2" colwidth="350pt"/>
+                    <colspec colname="c3" colnum="3" colwidth="50pt"/>
+                    <colspec colname="c4" colnum="4" colwidth="60pt"/>
+                    <thead>
+                        <row>
+                            <entry>REV</entry>
+                            <entry>DESCRIPTION</entry>
+                            <entry>DATE</entry>
+                            <entry>APPROVED</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>IR</entry>
+                            <entry align="left">Initial Release</entry>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p/>
+                            </entry>
+                            <entry align="left"/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+</topic>
